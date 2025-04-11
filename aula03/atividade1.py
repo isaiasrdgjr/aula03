@@ -1,8 +1,7 @@
-# desconto 13% camiseta
-
+# desconto 13%
 desconto = 13/100
-
 vlcamiseta = float(input('Informe o valor da camiseta '))
+
 vldesconto = vlcamiseta * desconto
 vlfinal = vlcamiseta - vldesconto
 
